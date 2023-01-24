@@ -15,7 +15,9 @@ namespace EmployeePayRollServices
             Employeelist.Add(new EmployeeDetails(4, "Raju","leader", 80345325 ));
 
             EmpPayrollOperation operation = new EmpPayrollOperation();
-            operation.AddEmpToPAyRollList(Employeelist);
+            //operation.AddEmpToPAyRollList(Employeelist);
+
+            operation.AddEmpToPAyRollListWithThread(Employeelist);
         }
         
     }
