@@ -1,0 +1,15 @@
+C:\Users\rushi\source\repos\EmployeePayRollServices\bin\Debug\net6.0\EmployeePayRollServices.exe
+C:\Users\rushi\source\repos\EmployeePayRollServices\bin\Debug\net6.0\EmployeePayRollServices.deps.json
+C:\Users\rushi\source\repos\EmployeePayRollServices\bin\Debug\net6.0\EmployeePayRollServices.runtimeconfig.json
+C:\Users\rushi\source\repos\EmployeePayRollServices\bin\Debug\net6.0\EmployeePayRollServices.dll
+C:\Users\rushi\source\repos\EmployeePayRollServices\bin\Debug\net6.0\EmployeePayRollServices.pdb
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.csproj.AssemblyReference.cache
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.AssemblyInfoInputs.cache
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.AssemblyInfo.cs
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.csproj.CoreCompileInputs.cache
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.dll
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\refint\EmployeePayRollServices.dll
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.pdb
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\EmployeePayRollServices.genruntimeconfig.cache
+C:\Users\rushi\source\repos\EmployeePayRollServices\obj\Debug\net6.0\ref\EmployeePayRollServices.dll
